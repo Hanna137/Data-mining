@@ -1,5 +1,7 @@
 Mục tiêu: 
 Xử lý dữ liệu dòng chảy lịch sử, tính toán các thống kê và xu hướng, và đánh giá ảnh hưởng của hiện tượng El Niño đến dòng chảy thông qua mô hình hồi quy và trực quan hóa.
+
+
 Các tệp tin:
 - TH2_Input_22166022.xlsx – Dữ liệu dòng chảy thô của một trạm quan trắc tại Thái Lan, mỗi sheet tương ứng với một năm.
 - TH2_Output_22166022.xlsx: chuyển input từ bảng ngang sang dạng bảng dọc , lưu lượng dòng chảy theo ngày.
