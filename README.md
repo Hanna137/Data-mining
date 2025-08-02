@@ -9,4 +9,5 @@ Các tệp tin:
 - stats.xlsx: bảng thống kê mô tả cơ bản cho các tháng 
 - nino34.long.anom.data.xlsx – Dữ liệu chỉ số NINO 3.4 (El Niño).
 - code.R: tất cả code của bài.
+- result.docx: file kết quả chứa biểu đồ.
   
