@@ -11,4 +11,4 @@ Các tệp tin:
 - code.R: tất cả code của bài.
 - result.docx: file kết quả chứa biểu đồ.
 markdown
-![Giao diện màn hình chính](images/home_screen.png)
+![Giao diện màn hình chính](images/home_screen_png.jpg)
