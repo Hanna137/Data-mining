@@ -10,4 +10,5 @@ Các tệp tin:
 - nino34.long.anom.data.xlsx – Dữ liệu chỉ số NINO 3.4 (El Niño).
 - code.R: tất cả code của bài.
 - result.docx: file kết quả chứa biểu đồ.
-  
+markdown
+![Giao diện màn hình chính](images/home_screen.png)
